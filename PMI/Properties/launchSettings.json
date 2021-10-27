@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PMI": {
+      "commandName": "Project",
+      "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\PMI"
+    }
+  }
+}
