@@ -2,6 +2,7 @@
   "profiles": {
     "PMI": {
       "commandName": "Project",
+      "commandLineArgs": "2 test wp-test.txt",
       "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\PMI"
     }
   }
